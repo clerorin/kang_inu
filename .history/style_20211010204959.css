@@ -175,7 +175,7 @@ body {
         object-fit: cover;
     }
 
-    .swiper-slide img[src="img/image5.jpg"]{
+    .swiper-slide img[src="img/image5.png"]{
         -webkit-object-position : 20% 50%;
         object-position: 20% 50%;
     }
