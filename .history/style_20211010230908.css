@@ -189,7 +189,6 @@ body {
     .title h1{
         padding-top : 2%;
     }
-}
 
 @media screen and (max-height : 700px){
     .title p{
