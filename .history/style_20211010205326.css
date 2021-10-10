@@ -164,7 +164,7 @@ body {
 }
 
 @media screen and (max-width : 900px){
-    .title h1{
+    .title p{
         padding-top : 2%;
     }
     .slider{
